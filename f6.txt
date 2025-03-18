@@ -1,1 +1,2 @@
-fichier6.txt
+"hello world"
+fichier6.txt deja edite 
